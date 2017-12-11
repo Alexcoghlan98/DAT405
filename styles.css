@@ -1,0 +1,35 @@
+body {
+ font-family: arial, sans-serif; /* this is the font that would be used on the webpage */
+ font-style: normal;
+ background-color: DarkGrey; /* this is the background colour of the webpage */
+ margin: 0;
+ height: 100%auto;
+ padding: 0;
+}
+
+header{
+  background-color: rgb(139, 0, 139);
+  width: 100%auto;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  text-align: center;
+}
+
+p{
+  width: 100%
+  color: #333333 /* this is the colour of the text in the header of the page */
+  padding: 20px;
+  font-size: 15px; /* This is the size of the font on the page */
+  text-align: center;
+
+}
+
+#canvasContainer{
+  margin: 0px auto;
+  width: 590px;
+
+}
+
+canvas {
+
+}
